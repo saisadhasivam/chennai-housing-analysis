@@ -521,8 +521,7 @@ This project emphasizes pedagogical value and methodological rigor. Contribution
 - Suggest potential solutions when possible
 
 **Contact**: Open GitHub issue for questions or suggestions
-
-**License**: MIT License (see LICENSE file)  
+ 
 **Last Updated**: August 2025  
 **Version**: 1.0.0
 
